@@ -1,6 +1,6 @@
 # TrafikverketTrackSwitch
 
-Projekt för att ta fram relevant statistik om Trafikverkets 46k+ växlar
+Projekt för att analysera relevant statistik om Trafikverkets 46k+ växlar
 
 ## Analysresultat
 (Se output.txt för detaljer)
