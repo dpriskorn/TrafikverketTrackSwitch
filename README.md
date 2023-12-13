@@ -25,3 +25,4 @@ kunde ha undvikits om Trafikverket klarade av sitt uppdrag.
 
 ## Vad jag lärde mig
 * Jag blev lite vassare på GeoPandas tack vara förslag på kod från chatgpt och lite sökningar på nätet
+* Jag lärde mig att dra ut en datamängd som inte var paketerat från https://lastkajen.trafikverket.se/
