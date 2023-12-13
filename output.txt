@@ -1,0 +1,74 @@
+Totalt antal växlar i databasen: 46879
+Poster med okänd inkopplingsdatum före april 2019: 45029 (96%)
+OBS: Det här tyder på att Trafikverket i dagsläget inte har bra koll på sina växlar alls. Det här är mycket allvarligt eftersom växlarna ofta orsakar stopp i tågtrafiken på vintern vid snöfall, frost, etc.
+
+Dessa stopp orsakar problem för både resenärer och tågbolag, såhär skriver SJ i sin årsredovisning från 2022: 
+'Kraftigt ökad tågtrafik har medfört att kapacitetstaket på svensk järnvägsinfrastruktur överskridits. Tillsammans med eftersatt underhåll medför det återkommande trafikstörningar. Den nationella planen innebär att den redan höga underhållsskulden kommer att öka markant. Det riskerar att medföra ännu fler trafikstörningar och att SJ inte kan leverera på sina kundlöften, där en punktlig resa är prioriterad.'
+Medeleffekt: 10 kW
+OBS: eftersom så många poster är inkompletta och Trafikverket inte förklarat offentligt varför det är så är det inte en pålitlig siffra.
+Medelår inlagd: 1996. OBS eftersom >18k poster saknar inläggningsår så är det här nog inte rätt alls
+---
+Statistik om senaste 20 årens inlagda växlar
+Totalt inlagda i perioden: 10631
+Medelantal inlagd per år: 506
+Inlaggningsar_vaxel
+2003    283
+2004    506
+2005    427
+2006    449
+2007    628
+2008    662
+2009    724
+2010    720
+2011    748
+2012    705
+2013    324
+2014    469
+2015    502
+2016    591
+2017    378
+2018    349
+2019    556
+2020    391
+2021    510
+2022    371
+2023    338
+Name: count, dtype: int64
+Medeleffekt: 12 kW
+Totaleffekt: 103786 kW
+
+---
+Statistik om senaste 10 årens inlagda växlar
+Totalt inlagda i perioden: 4779
+Medelantal inlagd per år: 434
+Inlaggningsar_vaxel
+2013    324
+2014    469
+2015    502
+2016    591
+2017    378
+2018    349
+2019    556
+2020    391
+2021    510
+2022    371
+2023    338
+Name: count, dtype: int64
+Medeleffekt: 13 kW
+Totaleffekt: 49218 kW
+
+---
+Statistik om senaste 5 årens inlagda växlar
+Totalt inlagda i perioden: 2515
+Medelantal inlagd per år: 419
+Inlaggningsar_vaxel
+2018    349
+2019    556
+2020    391
+2021    510
+2022    371
+2023    338
+Name: count, dtype: int64
+Medeleffekt: 14 kW
+Totaleffekt: 25887 kW
+
